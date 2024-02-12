@@ -8,8 +8,8 @@ load_dotenv()
 
 #ce script sert à récupérer le token d'accès pour l'API Twitch
 
-client_id = 'b8w33aqrslefx8btr6hf8bno0yeedo'
-client_secret = '1i1g0fv2ve7ebfg5o717e6i6aw28ee'
+client_id = 
+client_secret = 
 
 # Demande pour obtenir le token
 response = requests.post(
